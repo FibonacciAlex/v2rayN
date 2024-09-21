@@ -10,7 +10,7 @@ A GUI client for Windows, support [Xray core](https://github.com/XTLS/Xray-core)
 
 ## How to use
 - If you are new to this, please download v2rayN-With-Core.zip from [releases](https://github.com/2dust/v2rayN/releases)
-- Otherwise please download v2rayN.zip (you will also need to download cores in the bin directory)
+- Otherwise please download v2rayN.zip (you will also need to download cores in the bin directory). The msg looks like:在文件夹 (D:\studyspace\cpp\v2rayN\v2rayN\v2rayN\bin\Debug\net8.0-windows10.0.17763\bin\Xray) 下未找到Core文件 (文件名:xray, wxray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
 - Run v2rayN.exe
 
 ## Requirements  
@@ -21,3 +21,5 @@ A GUI client for Windows, support [Xray core](https://github.com/XTLS/Xray-core)
 
 ## Telegram Channel
 [github_2dust](https://t.me/github_2dust)
+
+
