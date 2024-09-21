@@ -22,4 +22,21 @@ A GUI client for Windows, support [Xray core](https://github.com/XTLS/Xray-core)
 ## Telegram Channel
 [github_2dust](https://t.me/github_2dust)
 
+## How to set up the config
+- Right click one server in Server List, set it as Active Server.
+- Change the System proxy mode to Auto Config
+
+## Tun Mode
+- Default closed. But the software is not working even in the Global mode, we can try to set it open.
+
+## System Proxy
+- Clean System Proxy: Close the the proxy, recover and use the original network.
+- Auto Config: Use proxy.
+- No Change System Proxy: Do nothing, just keep other proxy setting.
+- PAC Mode: Intelligent shunt mode, according to the rules to match the websites you visit, only accelerate foreign websites, domestic websites are not affected.
+
+## Rout
+- Global: All data goes out through the proxy
+- BlackList: Except the websites in the blacklist, all websites access the Internet through the node server proxy.
+- Except Mainland: Judging whether the target is cn from the geo file, if it is a direct connection outbound, other outbound agents (LAN has also been bypassed).
 
